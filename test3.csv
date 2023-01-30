@@ -1,0 +1,6 @@
+type1,type2,type3,country,price A,price B
+a,cat1,A,iran,1500,50
+b,cat2,A,iran,1700,125
+c,cat4,B,germany,1200,22
+d,cat1,B,germany,2400,666
+e,cat4,B,france,5500,21
